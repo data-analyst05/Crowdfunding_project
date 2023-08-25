@@ -4,7 +4,7 @@
 Crowdfunding platforms, such as Kickstarter and Indiegogo, have seen significant growth since their inception in the late aughts. These platforms have become a staple for creators ranging from indie enthusiasts to renowned celebrities looking to bring their ideas to life. However, not every campaign launched finds success.
 
 ## Data Analysis Tool
-For this project, the analysis was conducted using Microsoft Excel, a powerful spreadsheet software that aids in data processing and statistical analysis.
+For this project, the analysis was conducted using Microsoft Excel.
 
 ## Objective
 The aim was to discern the variability in the number of backers between successful and unsuccessful campaigns by examining their variance and standard deviation values.
